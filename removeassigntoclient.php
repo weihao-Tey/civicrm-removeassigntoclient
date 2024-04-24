@@ -36,7 +36,7 @@ function removeassigntoclient_civicrm_enable(): void {
  * 
  * Implements hook_civicrm_links().
  * 
- * Removes the ActionLinks if Activity Status is 'Locked'. [Activity Tab]
+ * Removes the ActionLinks if Activity Status is 'Locked'. [Case Tab]
  * 
  * @link https://docs.civicrm.org/dev/en/latest/hooks/hook_civicrm_links/
  */
